@@ -24,7 +24,7 @@
 
 ## Introduction
 
-The TCG Library is a comprehensive C++ toolkit designed to generate various types of random data structures and values. It's particularly useful for competitive programming, algorithm testing, and generating test cases various problems.
+The TCG Library is a comprehensive C++ toolkit designed to generate various types of random data structures and values. It's particularly useful for competitive programming, algorithm testing, and generating test cases for various coding problems.
 
 This library provides efficient and easy-to-use classes and functions for generating:
 
@@ -306,10 +306,9 @@ int main() {
 
 ## Best Practices
 
-1. Seed the random number generator only once at the beginning of your program to ensure reproducibility.
-2. When generating large amounts of data, consider using move semantics to improve performance.
-3. For graph generation, ensure that the number of edges (m) does not exceed the maximum possible edges for n vertices to avoid infinite loops.
-4. When using weighted graphs, choose an appropriate range for weights based on your specific problem requirements.
+1. When generating large amounts of data, consider using move semantics to improve performance.
+2. For graph generation, ensure that the number of edges (m) does not exceed the maximum possible edges for n vertices to avoid infinite loops.
+3. When using weighted graphs, choose an appropriate range for weights based on your specific problem requirements.
 
 ## Troubleshooting
 
