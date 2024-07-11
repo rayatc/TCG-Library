@@ -7,3 +7,6 @@ test.cpp
 
 # Ignore .vscode folder
 .vscode
+
+# Ignore .exe files
+*.exe

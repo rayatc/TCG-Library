@@ -1,4 +1,4 @@
-# Random Generators Library Documentation
+# TCG Library Documentation
 
 ## Table of Contents
 
@@ -24,7 +24,7 @@
 
 ## Introduction
 
-The Random Generators Library is a comprehensive C++ toolkit designed to generate various types of random data structures and values. It's particularly useful for competitive programming, algorithm testing, and generating test cases for software development.
+The TCG Library is a comprehensive C++ toolkit designed to generate various types of random data structures and values. It's particularly useful for competitive programming, algorithm testing, and generating test cases various problems.
 
 This library provides efficient and easy-to-use classes and functions for generating:
 
