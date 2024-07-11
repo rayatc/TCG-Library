@@ -6,7 +6,6 @@
 2. [Installation](#installation)
 3. [Basic Usage](#basic-usage)
 4. [Classes and Functions](#classes-and-functions)
-   - [Ordered Set](#ordered-set)
    - [Random Function](#random-function)
    - [Random Vector (rvector)](#random-vector-rvector)
    - [Permutation](#permutation)
@@ -74,15 +73,6 @@ int main() {
 ```
 
 ## Classes and Functions
-
-### Ordered Set
-
-```cpp
-template <class T>
-using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>;
-```
-
-This is a policy-based data structure that provides an ordered set with additional operations like finding the k-th element or the number of elements less than a given value.
 
 ### Random Function
 
