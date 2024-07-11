@@ -10,3 +10,6 @@ test.cpp
 
 # Ignore .exe files
 *.exe
+
+# Ignore .gitignore file
+.gitignore
