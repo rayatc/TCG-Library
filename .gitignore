@@ -1,0 +1,9 @@
+# Ignore input and output files
+input.txt
+output.txt
+
+# Ignore test.cpp file
+test.cpp
+
+# Ignore .vscode folder
+.vscode
