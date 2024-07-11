@@ -83,8 +83,10 @@ char random(const string &s)
  * filled with random elements of a specified type.
  *
  * @tparam T The type of elements in the vector.
+ * 
+ * 
+ * 
  */
-
 template <typename T>
 class rvector : public vector<T>
 {
